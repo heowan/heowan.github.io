@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "프로퍼티 어트리뷰트(Property Attribute)"
-categories: JavaScript
+categories: JavaScript Deep Dive
 ---
 
 ## 프로퍼티(Property)
